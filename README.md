@@ -13,4 +13,4 @@ Java Projects Repository ☕
 🔄 Actively maintained and expanded over time
 
 READ THIS:
-before using trying any program check read.md all contains packages so it would help some one
+before using face any program check read.md all contains packages so it would help some one
