@@ -1,3 +1,12 @@
+# ⏰ AlarmClock (Java)
+
+![Alarm Set](screenshots/menu.png)
+![Alram Timer](screenshots/output_1.png)
+![Alarm Ringing](screenshots/alarm-ringing.png)
+
+A simple Java console-based alarm clock that allows users to set an alarm time
+and plays a looping sound when the time is reached.
+
 # ⏰ Java Alarm Clock
 
 A simple **Java console-based alarm clock** that lets users set a time and plays an audio alarm when the time is reached.  
