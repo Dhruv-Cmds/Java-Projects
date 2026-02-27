@@ -12,7 +12,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         
-        String[] choices = {"stonge" , "paper" , "scissors"};
+        String[] choices = {"stone" , "paper" , "scissors"};
 
         String playerChoice;
         String computerChoice;

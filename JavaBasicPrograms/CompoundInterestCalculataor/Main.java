@@ -15,7 +15,7 @@ public class Main {
         System.out.print("Enter the principal amount: ");
         principal = scanner.nextDouble();
 
-        System.out.print("Enter the intrest rate (in %): ");
+        System.out.print("Enter the interest rate (in %): ");
         rate = scanner.nextDouble() / 100;
 
         System.out.print("Enter the number of times compounded per year: ");

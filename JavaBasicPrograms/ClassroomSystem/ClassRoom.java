@@ -14,9 +14,9 @@ public class ClassRoom {
 
         System.out.println(s.name + " added to classroom." );
     }
-    void showStudens(){
+    void showStudent(){
         if(counts == 0){
-            System.out.println("No Studens in classroom yet.");
+            System.out.println("No Students in classroom yet.");
             return;
         }
 

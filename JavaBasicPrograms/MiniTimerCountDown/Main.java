@@ -11,7 +11,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Etner # of seconds to countdown from: ");
+        System.out.print("Enter # of seconds to countdown from: ");
         int response = scanner.nextInt();
         
         Timer timer = new Timer();

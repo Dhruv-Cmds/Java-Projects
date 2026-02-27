@@ -22,14 +22,14 @@ public class Main {
             attempts += 1;
             
             if(userPin.length() == 4 && (userPin).equals(correctPin)){
-                System.out.println("Access Granded.");
+                System.out.println("Access Granted.");
                 System.out.println("Total attempts: " + attempts);
                 accessGranted = true;
                 break;
             }
             else{
                 System.out.println("Try Again!");
-                System.out.println("Remaing attempts: " + (3 - attempts));
+                System.out.println("Remaking attempts: " + (3 - attempts));
             }
         }
         if (!accessGranted) {

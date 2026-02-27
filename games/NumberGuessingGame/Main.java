@@ -31,7 +31,7 @@ public class Main {
                 System.out.println("Lower number! ");
             }
             else if (guess < randomNumber){
-                System.out.println("Higer number! ");
+                System.out.println("Higher number! ");
             }
             else {
                 System.out.println("You guessed the number. " + "Number was: " + guess);

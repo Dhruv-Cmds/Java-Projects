@@ -15,8 +15,8 @@ public class Main {
         
         System.out.println("----------------------------------");
         System.out.println("Welcome to Weight Converter Center");
-        System.out.println("1: Conver lbs to kgs");
-        System.out.println("2: Conver kgs to lbs");
+        System.out.println("1: Convert lbs to kgs");
+        System.out.println("2: Convert kgs to lbs");
 
         System.out.print("Chose an option: ");
         choice = scanner.nextInt();

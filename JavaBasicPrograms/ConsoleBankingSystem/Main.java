@@ -30,17 +30,17 @@ public class Main {
                 }
     
                 case 2 -> {
-                    System.out.print("Enter deposite amount: ");
+                    System.out.print("Enter deposit amount: ");
                     amount = scanner.nextDouble();
                     scanner.nextLine();
 
                     if(amount > 0) {
-                        balance = deposite(balance, amount);
-                        history[transactionCount] = "Deposite: $" + amount;
+                        balance = deposit(balance, amount);
+                        history[transactionCount] = "Deposit: $" + amount;
                         transactionCount++;
                     }
                     else {
-                        System.out.println("Invalid deposite amount"); 
+                        System.out.println("Invalid deposit amount");
                     }
                 }
     
@@ -89,13 +89,13 @@ public class Main {
         System.out.println("--------------------------");
 
         System.out.println("1. Check balance");
-        System.out.println("2. Deposite");
+        System.out.println("2. Deposit");
         System.out.println("3. Withdraw");
         System.out.println("4. History");
         System.out.println("5. Exit");
     }
 
-    static double deposite (double balance , double amount){
+    static double deposit(double balance , double amount){
 
         balance += amount;
         System.out.println("Amount added to your account.");

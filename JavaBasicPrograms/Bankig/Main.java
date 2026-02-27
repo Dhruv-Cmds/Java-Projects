@@ -29,14 +29,14 @@ public class Main {
 
             switch(choice){
                 case 1 -> showBalance(balance);
-                case 2 -> balance += deposite();
+                case 2 -> balance += deposit();
                 case 3 -> balance -= withdraw(balance);
                 case 4 -> isRunning = false;
                 default -> System.out.println("Invalid Choice!");
             }
         } 
         System.out.println("---------------------------");   
-        System.out.println("Thankyou! have a nice day!.");
+        System.out.println("Thank you! have a nice day!.");
 
         scanner.close();
     }
@@ -44,7 +44,7 @@ public class Main {
         System.out.println("--------------");
         System.out.printf("Total Balance: $%.2f\n" , balance);
     }
-    static double deposite(){
+    static double deposit(){
         
         double amount;
 
