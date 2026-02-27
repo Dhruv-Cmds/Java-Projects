@@ -1,8 +1,0 @@
-apple
-orange
-grapes
-banana
-coconut
-pineapple
-lime
-lemon
