@@ -1,4 +1,5 @@
-package NumberGuessingGame;
+package NumberGuessingGame.v1_basic;
+
 import java.util.Random;
 import java.util.Scanner;
 
@@ -49,7 +50,7 @@ public class Main {
 
         // System.out.println("To start the game you can make hard as much as you want");
 
-        // System.out.print("Chose minimun number you want: ");
+        // System.out.print("Chose minimum number you want: ");
         // minimum = scanner.nextInt();
 
         // System.out.print("Chose maximum number you want: ");
