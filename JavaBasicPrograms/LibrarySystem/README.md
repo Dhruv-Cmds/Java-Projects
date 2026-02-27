@@ -1,28 +1,20 @@
-📚 Library System:-
+Alarm clock
 
-- Overview:-
+v1_basic     - basic procedural version
+v2_oop_file  - OOP version with file handling
 
-- The Library System is a console-based Java program that manages a small collection of books and basic library operations.
 
-- Features:-
+## Screenshots
 
-- Add books to the library
-- Remove books
-- Display available books
+### Version 1 (Basic)
+![Menu](screenshots/v1_menu.png)
+![Output](screenshots/v1_output_1.png)
+![Output](screenshots/v1_alarm-ringing.png)
 
-- Concepts Used:-
-
-- Object relationships
-- Java collections
-- Separation of concerns
-
-How to Run:-
-
-- javac Main.java
-- java Main
-
-- Ideal For:-
-
-- Learning collections
-- Practicing CRUD-style logic
-- Small system modeling
+### Version 2 (OOP + File I/O)
+![Menu](screenshots/v2_menu.png)
+![Output](screenshots/v2_output_1.png)
+![Output](screenshots/v2_output_2.png)
+![Output](screenshots/v2_output_3.png)
+![Output](screenshots/v2_output_4.png)
+![Output](screenshots/v2_txt.png)

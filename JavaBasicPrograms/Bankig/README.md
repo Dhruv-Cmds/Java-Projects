@@ -1,34 +1,20 @@
-🏦 Java Console Banking App
+Alarm clock
 
-- A simple console-based banking system built with Java.
-- Straightforward. Functional. No nonsense.
+v1_basic     - basic procedural version
+v2_oop_file  - OOP version with file handling
 
-- ✨ What It Does
 
-- 💰 Check account balance
+## Screenshots
 
-- ➕ Deposit money
+### Version 1 (Basic)
+![Menu](screenshots/v1_menu.png)
+![Output](screenshots/v1_output_1.png)
+![Output](screenshots/v1_alarm-ringing.png)
 
-- ➖ Withdraw money
-
-- 🚪 Exit safely
-
-🛠 Tech Stack
-
-- Java
-
-- Scanner (user input)
-
-- Loops & Switch expressions
-
-▶️ Run It
-- javac Bankig/Main.java
-- java Bankig.Main
-
-🔒 Smart Validation
-
-- Prevents negative deposits
-
-- Blocks overdrawing
-
-- Handles invalid menu selections
+### Version 2 (OOP + File I/O)
+![Menu](screenshots/v2_menu.png)
+![Output](screenshots/v2_output_1.png)
+![Output](screenshots/v2_output_2.png)
+![Output](screenshots/v2_output_3.png)
+![Output](screenshots/v2_output_4.png)
+![Output](screenshots/v2_txt.png)

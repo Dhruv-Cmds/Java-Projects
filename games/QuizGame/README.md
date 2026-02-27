@@ -1,30 +1,20 @@
-# 🧠 Quiz Game (Java)
+Alarm clock
 
-A console-based quiz application that presents multiple-choice questions and tracks user score.
+v1_basic     - basic procedural version
+v2_oop_file  - OOP version with file handling
 
-## 📌 Features
 
-- Multiple-choice questions
-- Score tracking
-- Input validation
-- Structured question flow
+## Screenshots
 
-## 🛠 Concepts Used
+### Version 1 (Basic)
+![Menu](screenshots/v1_menu.png)
+![Output](screenshots/v1_output_1.png)
+![Output](screenshots/v1_alarm-ringing.png)
 
-- Arrays
-- Loops
-- Conditional statements
-- Scanner input handling
-- Basic state management
-
-## ▶ How to Run
-
-Compile:
-javac Main.java
-
-Run:
-java Main
-
-## 🎯 Objective
-
-This project demonstrates interactive application design and structured logic implementation using Java.
+### Version 2 (OOP + File I/O)
+![Menu](screenshots/v2_menu.png)
+![Output](screenshots/v2_output_1.png)
+![Output](screenshots/v2_output_2.png)
+![Output](screenshots/v2_output_3.png)
+![Output](screenshots/v2_output_4.png)
+![Output](screenshots/v2_txt.png)

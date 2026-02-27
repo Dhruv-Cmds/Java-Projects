@@ -1,4 +1,4 @@
-package AlarmClock;
+package AlarmClock.v1_basic;
 
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;

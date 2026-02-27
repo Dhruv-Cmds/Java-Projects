@@ -1,31 +1,20 @@
-# 🎮 Rock Paper Scissors (Java)
+Alarm clock
 
-A console-based implementation of the classic Rock Paper Scissors game built using core Java fundamentals.
+v1_basic     - basic procedural version
+v2_oop_file  - OOP version with file handling
 
-## 📌 Features
 
-- User vs Computer gameplay
-- Randomized computer choice
-- Input validation
-- Game loop structure
-- Clear win/lose/draw logic
+## Screenshots
 
-## 🛠 Concepts Used
+### Version 1 (Basic)
+![Menu](screenshots/v1_menu.png)
+![Output](screenshots/v1_output_1.png)
+![Output](screenshots/v1_alarm-ringing.png)
 
-- Conditional statements (if-else / switch)
-- Loops
-- Random class
-- Scanner for user input
-- Basic game logic implementation
-
-## ▶ How to Run
-
-Compile:
-javac Main.java
-
-Run:
-java Main
-
-## 🎯 Objective
-
-This project demonstrates structured control flow and interactive console-based program design using Java.
+### Version 2 (OOP + File I/O)
+![Menu](screenshots/v2_menu.png)
+![Output](screenshots/v2_output_1.png)
+![Output](screenshots/v2_output_2.png)
+![Output](screenshots/v2_output_3.png)
+![Output](screenshots/v2_output_4.png)
+![Output](screenshots/v2_txt.png)

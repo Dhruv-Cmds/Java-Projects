@@ -1,28 +1,20 @@
-- 🏫 Mini University Management System
+Alarm clock
 
-- Overview:-
+v1_basic     - basic procedural version
+v2_oop_file  - OOP version with file handling
 
-- The Mini University Management System is a basic Java console application focused on managing student data in a university-like structure.
 
-- Features:-
+## Screenshots
 
-- Store and manage student information
-- Console-driven execution
-- Easily extendable structure
+### Version 1 (Basic)
+![Menu](screenshots/v1_menu.png)
+![Output](screenshots/v1_output_1.png)
+![Output](screenshots/v1_alarm-ringing.png)
 
-- Concepts Used:-
-
-- Modular class design
-- Object interaction
-- Entry-point driven programs
-
-- How to Run:-
-
-- javac Main.java
-- java Main
-
-- Ideal For:-
-
-- Academic projects
-- Understanding system structure
-- Preparing for larger Java applications
+### Version 2 (OOP + File I/O)
+![Menu](screenshots/v2_menu.png)
+![Output](screenshots/v2_output_1.png)
+![Output](screenshots/v2_output_2.png)
+![Output](screenshots/v2_output_3.png)
+![Output](screenshots/v2_output_4.png)
+![Output](screenshots/v2_txt.png)

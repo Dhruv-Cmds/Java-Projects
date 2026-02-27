@@ -1,30 +1,20 @@
-# 🎰 Slot Machine (Java)
+Alarm clock
 
-A console-based slot machine simulation built using Java fundamentals and random number generation.
+v1_basic     - basic procedural version
+v2_oop_file  - OOP version with file handling
 
-## 📌 Features
 
-- Randomized slot results
-- Pattern matching logic
-- Basic payout calculation
-- Interactive console interface
+## Screenshots
 
-## 🛠 Concepts Used
+### Version 1 (Basic)
+![Menu](screenshots/v1_menu.png)
+![Output](screenshots/v1_output_1.png)
+![Output](screenshots/v1_alarm-ringing.png)
 
-- Random class
-- Conditional logic
-- Loops
-- Input handling
-- Game state control
-
-## ▶ How to Run
-
-Compile:
-javac Main.java
-
-Run:
-java Main
-
-## 🎯 Objective
-
-This project focuses on implementing probability logic and decision-based outcomes in a structured Java program.
+### Version 2 (OOP + File I/O)
+![Menu](screenshots/v2_menu.png)
+![Output](screenshots/v2_output_1.png)
+![Output](screenshots/v2_output_2.png)
+![Output](screenshots/v2_output_3.png)
+![Output](screenshots/v2_output_4.png)
+![Output](screenshots/v2_txt.png)

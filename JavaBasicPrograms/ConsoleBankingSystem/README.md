@@ -1,29 +1,20 @@
-💳 Console Banking System:-
+Alarm clock
 
-Overview:-
+v1_basic     - basic procedural version
+v2_oop_file  - OOP version with file handling
 
-- The Console Banking System is a text-based Java application that simulates essential banking operations such as deposits, withdrawals, and balance checks.
 
-- Features:-
+## Screenshots
 
-- Create bank accounts
-- Deposit and withdraw money
-- View account balance
+### Version 1 (Basic)
+![Menu](screenshots/v1_menu.png)
+![Output](screenshots/v1_output_1.png)
+![Output](screenshots/v1_alarm-ringing.png)
 
-- Concepts Used:-
-
-- Conditional logic
-- User input handling
-- Method-based design
-- Encapsulation
-
-- How to Run:-
-
-- javac Main.java
-- java Main
-
-- deal For:-
-
-- Understanding control flow
-- Practicing real-world logic
-- Console application development
+### Version 2 (OOP + File I/O)
+![Menu](screenshots/v2_menu.png)
+![Output](screenshots/v2_output_1.png)
+![Output](screenshots/v2_output_2.png)
+![Output](screenshots/v2_output_3.png)
+![Output](screenshots/v2_output_4.png)
+![Output](screenshots/v2_txt.png)

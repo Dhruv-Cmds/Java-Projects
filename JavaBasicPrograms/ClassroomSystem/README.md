@@ -1,27 +1,20 @@
-📘 Classroom System:-
+Alarm clock
 
-- Overview:-
+v1_basic     - basic procedural version
+v2_oop_file  - OOP version with file handling
 
-- The Classroom System is a simple Java console application that simulates classroom and student management. It is designed to practice basic object-oriented programming concepts in a clean and understandable way.
 
-- Features:-
+## Screenshots
 
-- Create student objects
-- Assign students to classrooms
-- Display classroom and student information
-- Concepts Used
-- Classes and objects
-- Encapsulation
-- Arrays / Lists
-- Console output
- 
-- How to Run:-
+### Version 1 (Basic)
+![Menu](screenshots/v1_menu.png)
+![Output](screenshots/v1_output_1.png)
+![Output](screenshots/v1_alarm-ringing.png)
 
-- javac Main.java
-- java Main
-
-- Ideal For:-
-
-- Java beginners
-- OOP practice
-- Academic demonstrations
+### Version 2 (OOP + File I/O)
+![Menu](screenshots/v2_menu.png)
+![Output](screenshots/v2_output_1.png)
+![Output](screenshots/v2_output_2.png)
+![Output](screenshots/v2_output_3.png)
+![Output](screenshots/v2_output_4.png)
+![Output](screenshots/v2_txt.png)

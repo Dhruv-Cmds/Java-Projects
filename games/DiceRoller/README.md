@@ -1,67 +1,20 @@
-🎲 Java Dice Roller
+Alarm clock
 
-- A simple and fun console-based dice rolling simulator built with Java.
-- Roll one die or roll ten. Let randomness do its thing.
+v1_basic     - basic procedural version
+v2_oop_file  - OOP version with file handling
 
-✨ Features
 
-🎲 Roll any number of dice
+## Screenshots
 
-🔢 Random results between 1 and 6
+### Version 1 (Basic)
+![Menu](screenshots/v1_menu.png)
+![Output](screenshots/v1_output_1.png)
+![Output](screenshots/v1_alarm-ringing.png)
 
-🖨️ ASCII art dice display
-
-➕ Automatic total calculation
-
-⚠️ Input validation for invalid dice count
-
-🛠 Tech Stack
-
-- Java
-
-- Random class
-
-- Scanner for user input
-
-- Loops & switch expressions
-
-- Text blocks for ASCII art
-
-▶️ How to Run
-
-- javac DiceRoller/Main.java
-- java DiceRoller.Main
-
-📌 Example Output
-
-Enter the # of dice to roll: 2
-
----------
-|●     ●|
-|       |
-|●     ●|
----------
-
-You rolled: 4
-
----------
-|   ●   |
-|       |
-|   ●   |
----------
-
-You rolled: 1
-
-Total: 5
-
-🎯 What This Project Demonstrates
-
-- Random number generation
-
-- Loop control structures
-
-- Method creation
-
-- Clean console formatting
-
-- Beginner-friendly program structure
+### Version 2 (OOP + File I/O)
+![Menu](screenshots/v2_menu.png)
+![Output](screenshots/v2_output_1.png)
+![Output](screenshots/v2_output_2.png)
+![Output](screenshots/v2_output_3.png)
+![Output](screenshots/v2_output_4.png)
+![Output](screenshots/v2_txt.png)
