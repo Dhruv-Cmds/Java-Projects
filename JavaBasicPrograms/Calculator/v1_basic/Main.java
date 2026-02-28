@@ -21,7 +21,7 @@ public class Main {
         System.out.print("Enter the operation {+, -, *, /, ^): ");
         operator = scanner.next().charAt(0);
 
-        System.out.print("Enter the secound number: ");
+        System.out.print("Enter the second number: ");
         num2 = scanner.nextDouble();
 
         switch (operator) {

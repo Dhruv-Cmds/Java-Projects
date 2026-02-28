@@ -14,7 +14,7 @@ v2_oop_file  - OOP version
 ![Output](screenshots/v1_output_4.png)
 
 
-### Version 2 (OOP + File I/O)
+### Version 2 (OOP)
 ![Menu](screenshots/v2_menu.png)
 ![Output](screenshots/v2_output_1.png)
 ![Output](screenshots/v2_output_2.png)
