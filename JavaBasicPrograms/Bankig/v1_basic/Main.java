@@ -1,4 +1,4 @@
-package Bankig;
+package Bankig.v1_basic;
 
 import java.util.Scanner;
 
