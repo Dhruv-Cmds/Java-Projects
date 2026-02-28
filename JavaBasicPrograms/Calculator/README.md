@@ -1,7 +1,7 @@
 Calculator
 
 v1_basic     - basic procedural version
-v2_oop_file  - OOP version
+v2_oop  - OOP version
 
 
 ## Screenshots
@@ -10,7 +10,7 @@ v2_oop_file  - OOP version
 ![Menu](screenshots/v1_menu.png)
 ![Output](screenshots/v1_output.png)
 
-### Version 2 (OOP )
+### Version 2 (OOP)
 ![Menu](screenshots/v2_menu.png)
 ![Output](screenshots/v2_output.png)
 

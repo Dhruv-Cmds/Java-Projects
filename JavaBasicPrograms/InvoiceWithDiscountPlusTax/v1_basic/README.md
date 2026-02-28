@@ -1,4 +1,4 @@
-# InovoiceWithDiscountPlusTax
+# InvoiceWithDiscountPlusTax
 
 ## Description
 
@@ -29,12 +29,12 @@ Make sure you are in the project root directory.
 
 ### Compile
 ```
-javac InovoiceWithDiscountPlusTax\Main.java
+javac InvoiceWithDiscountPlusTax\Main.java
 ```
 
 ### Run
 ```
-java InovoiceWithDiscountPlusTax.Main
+java InvoiceWithDiscountPlusTax.Main
 ```
 
 ---
@@ -47,5 +47,5 @@ Dhruv
 
 ## Working
 
-javac InovoiceWithDiscountPlusTax\Main.java  
-java InovoiceWithDiscountPlusTax.Main
+javac InvoiceWithDiscountPlusTax\Main.java  
+java InvoiceWithDiscountPlusTax.Main

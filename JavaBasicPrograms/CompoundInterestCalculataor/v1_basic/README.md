@@ -47,5 +47,5 @@ Dhruv
 
 ## Working
 
-javac CompoundInterestCalculataor\Main.java  
+javac CompoundInterestCalculator\Main.java  
 java CompoundInterestCalculataor.Main
