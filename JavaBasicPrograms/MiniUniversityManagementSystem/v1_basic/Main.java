@@ -1,4 +1,4 @@
-package MiniUniversityManagementSystem;
+package MiniUniversityManagementSystem.v1_basic;
 public class Main{
 
     public static void main(String[] args) {

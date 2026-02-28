@@ -1,4 +1,4 @@
-package CompoundInterestCalculataor;
+package CompoundInterestCalculataor.v1_basic;
 import java.util.Scanner;
 
 public class Main {

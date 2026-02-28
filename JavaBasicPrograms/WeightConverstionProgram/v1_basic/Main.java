@@ -1,4 +1,4 @@
-package WeightConverstionProgram;
+package WeightConverstionProgram.v1_basic;
 
 import java.util.Scanner;
 

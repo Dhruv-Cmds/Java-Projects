@@ -1,4 +1,4 @@
-package MusicPlayer;
+package MusicPlayer.v1_basic;
 
 import java.io.File;
 import java.util.Scanner;

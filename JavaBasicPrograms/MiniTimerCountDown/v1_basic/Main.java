@@ -1,4 +1,4 @@
-package MiniTimerCountDown;
+package MiniTimerCountDown.v1_basic;
 
 import java.util.Scanner;
 import java.util.Timer;

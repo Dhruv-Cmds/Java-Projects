@@ -1,4 +1,4 @@
-package ClassroomSystem;
+package ClassroomSystem.v1_basic;
 
 public class Student {
     

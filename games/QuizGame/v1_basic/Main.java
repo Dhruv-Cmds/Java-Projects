@@ -1,4 +1,4 @@
-package QuizGame;
+package QuizGame.v1_basic;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package MiniUniversityManagementSystem;
+package MiniUniversityManagementSystem.v1_basic;
 
 public class Studend {
 

@@ -1,4 +1,4 @@
-package InovoiceWithDiscountPlusTax;
+package InovoiceWithDiscountPlusTax.v1_basic;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package LibrarySystem;
+package LibrarySystem.v1_basic;
 public class Book {
     
     String title;

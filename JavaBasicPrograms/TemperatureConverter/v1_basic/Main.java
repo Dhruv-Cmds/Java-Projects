@@ -1,4 +1,4 @@
-package TemperatureConverter;
+package TemperatureConverter.v1_basic;
 
 import java.util.Scanner;
 

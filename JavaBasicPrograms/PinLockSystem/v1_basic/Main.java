@@ -1,4 +1,4 @@
-package PinLockSystem;
+package PinLockSystem.v1_basic;
 
 import java.util.Scanner;
 

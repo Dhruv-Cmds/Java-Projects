@@ -1,4 +1,4 @@
-package ConsoleBankingSystem;
+package ConsoleBankingSystem.v1_basic;
 
 import java.util.Scanner;
 
