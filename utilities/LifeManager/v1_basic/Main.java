@@ -141,7 +141,7 @@ public class Main {
                 System.out.println("How many days is your birthday?");
                 days = scanner.nextInt();
 
-                for (int i = days ; i > 0 ; i -= 1){
+                for (int i = days ; i > 0 ; i--){
                     System.out.println(i);
                     Thread.sleep(500);
                 }
