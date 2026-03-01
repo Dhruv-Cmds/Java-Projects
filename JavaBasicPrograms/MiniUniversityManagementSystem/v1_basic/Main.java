@@ -5,37 +5,28 @@ public class Main{
 
          //  Mini University Management System
 
-        Studend s1 = new Studend("Alice Johnson", 20, 101, "Computer Science");
+        Student s1 = new Student("Alice Johnson", 20, 101, "Computer Science");
         
-        Studend s2 = new Studend("Bob Smith", 21, 102, "Information Technology");
-        Studend s3 = new Studend("Charlie Brown", 22, 103, "Mathematics");
-        Studend s4 = new Studend("David Miller", 23, 104, "Physics");
-        Studend s5 = new Studend("Emma Davis", 19, 105, "Biology");
-        Studend s6 = new Studend("Liam Wilson", 20, 106, "Engineering");
-        Studend s7 = new Studend("Sophia Taylor", 21, 107, "Business");
-        Studend s8 = new Studend("Noah Anderson", 22, 108, "Chemistry");
-        Studend s9 = new Studend("Olivia Thomas", 23, 109, "Psychology");
-        Studend s10 = new Studend("Ethan Moore", 20, 110, "Economics");
-        
+        Student s2 = new Student("Bob Smith", 21, 102, "Information Technology");
+        Student s3 = new Student("Charlie Brown", 22, 103, "Mathematics");
+        Student s4 = new Student("David Miller", 23, 104, "Physics");
+        Student s5 = new Student("Emma Davis", 19, 105, "Biology");
+        Student s6 = new Student("Liam Wilson", 20, 106, "Engineering");
+        Student s7 = new Student("Sophia Taylor", 21, 107, "Business");
+        Student s8 = new Student("Noah Anderson", 22, 108, "Chemistry");
+        Student s9 = new Student("Olivia Thomas", 23, 109, "Psychology");
+        Student s10 = new Student("Ethan Moore", 20, 110, "Economics");
+
         System.out.println("--------------------------------");
         s1.addFriend(s1);
-        System.out.println("--------------------------------");
         s1.addFriend(s2);
-        System.out.println("--------------------------------");
         s1.addFriend(s3);
-        System.out.println("--------------------------------");
         s1.addFriend(s4);
-        System.out.println("--------------------------------");
         s1.addFriend(s5);
-        System.out.println("--------------------------------");
         s1.addFriend(s6);
-        System.out.println("--------------------------------");
         s1.addFriend(s7);
-        System.out.println("--------------------------------");
         s1.addFriend(s8);
-        System.out.println("--------------------------------");
         s1.addFriend(s9);
-        System.out.println("--------------------------------");
         s1.addFriend(s10);
 
         System.out.println("--------------------------------");

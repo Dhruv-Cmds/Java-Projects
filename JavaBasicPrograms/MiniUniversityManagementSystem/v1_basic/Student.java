@@ -1,6 +1,6 @@
 package MiniUniversityManagementSystem.v1_basic;
 
-public class Studend {
+public class Student {
 
     String name;
     int age;
@@ -8,7 +8,7 @@ public class Studend {
     String course;
 
     
-    Studend(String name , int age , int id , String course){
+    Student(String name , int age , int id , String course){
         this.name = name;
         this.age = age;
         this.id = id;
@@ -21,10 +21,10 @@ public class Studend {
         System.out.println("Course: " + course);
     }
     
-    Studend[] friends = new Studend[10];
+    Student[] friends = new Student[10];
     int friendCount = 0;
 
-    void addFriend(Studend s){
+    void addFriend(Student s){
         if (friendCount >= friends.length) {
             System.out.println("Friend list is full." );
             return;
