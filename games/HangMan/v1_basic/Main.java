@@ -1,4 +1,4 @@
-package HangMan;
+package HangMan.v1_basic;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -14,8 +14,8 @@ public class Main {
 
                 // HANG-MAN GAME
 
-        String filePath = "HangMan/words.txt";
-        
+        String filePath = "games/HangMan/v1_basic/words.txt";
+
         ArrayList<String> words = new ArrayList<>();
 
         try(BufferedReader reader = new BufferedReader(new FileReader(filePath))){
