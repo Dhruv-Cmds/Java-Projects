@@ -12,7 +12,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         
-        String[] choices = {"stone" , "paper" , "scissors"};
+        String[] choices = {"rock" , "paper" , "scissors"};
 
         String playerChoice;
         String computerChoice;
@@ -33,15 +33,15 @@ public class Main {
             computerChoice = choices[random.nextInt(3)];
             System.out.println("Computer choice: " + computerChoice);
     
-            if(playerChoice == computerChoice){
+            if(playerChoice.equals(computerChoice)){
                 System.out.println("------");
                 System.out.println(" Tie! ");
                 System.out.println("------");
             }
             else if (
-                (playerChoice.equals("rock") && computerChoice.equals("scissors")) ||
-                (playerChoice.equals("paper") && computerChoice.equals("stone")) ||
-                (playerChoice.equals("scissors") && computerChoice.equals("paper"))
+                    playerChoice.equals("rock") && computerChoice.equals("scissors")
+                    || playerChoice.equals("scissors") && computerChoice.equals("paper")
+                    || playerChoice.equals("paper") && computerChoice.equals("rock")
             ) {  
                 System.out.println("----------");
                 System.out.println(" You win! ");
@@ -54,7 +54,7 @@ public class Main {
                 System.out.println("-------------");
             }
     
-            System.out.println("Wanna play again? (yes/no): ");
+            System.out.print("Wanna play again? (yes/no): ");
             playAgain = scanner.nextLine().toLowerCase();
         }
 
