@@ -55,14 +55,14 @@ public  class Main {
                 passedStudent++;
             }
 
-            if(grades[i] < 50){
+            else if(grades[i] < 50){
                 failedStudent++;
             }
 
             //    Class average
-            studentAverage = sum / studentCount;
 
         }
+        studentAverage = sum / studentCount;
 
         System.out.println("--------------------");
         System.out.println("===== RESULTS =====:");
