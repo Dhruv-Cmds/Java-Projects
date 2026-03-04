@@ -12,11 +12,11 @@ public class Main {
     public static void main(String[] args) {
         // MUSIC PLAYER
         File[] songs = {
-            new File("utilities/MusicPlayer/track1.wav"),
-            new File("utilities/MusicPlayer/track2.wav"),
-            new File("utilities/MusicPlayer/track3.wav"),
-            new File("utilities/MusicPlayer/track4.wav"),
-            new File("utilities/MusicPlayer/track5.wav")
+                new File("filepath.wav"),
+                new File("filepath.wav"),
+                new File("filepath.wav"),
+                new File("filepath.wav"),
+                new File("filepath.wav")
         };
 
         int songIndex = 0;
