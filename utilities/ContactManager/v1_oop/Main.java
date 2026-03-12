@@ -50,27 +50,28 @@ public class Main {
 
                 case 1 -> {
                     service.addContact();
-                    break;
                 }
 
                 case 2 -> {
                     service.deleteContact();
-                    break;
                 }
+
                 case 3 -> {
                     service.searchContact();
-                    break;
                 }
+
                 case 4 -> {
                     service.showAllContact();
-                    break;
+
                 }
+
                 case 5 -> {
                     System.out.println("Exiting...");
                     System.out.println("Exit");
                     scanner.close();
                     return;
                 }
+                
                 default -> System.out.println("Choice out of range.");
             }
         }
