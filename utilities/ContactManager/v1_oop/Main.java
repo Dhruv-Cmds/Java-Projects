@@ -67,6 +67,7 @@ public class Main {
                 }
                 case 5 -> {
                     System.out.println("Exiting...");
+                    System.out.println("Exit");
                     scanner.close();
                     return;
                 }
