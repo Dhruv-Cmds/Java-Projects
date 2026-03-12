@@ -1,4 +1,4 @@
-package ClassroomSystem.Calculator;
+package ClassroomSystem.v2_oop;
 
 public class Student {
     
