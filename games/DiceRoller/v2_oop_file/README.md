@@ -35,7 +35,7 @@ Roll one die or roll ten. Let randomness decide your fate.
 ```
 DiceRoller.v2_oop_file
 │
-├── Main.java
+├── ContactManager.v1_oop.Main.java
 ├── DiceGame.java
 ├── Die.java
 ├── DicePrinter.java
@@ -55,7 +55,7 @@ javac DiceRoller/v1_basic/*.java
 2. Run the program:
 
 ```
-java DiceRoller.v1_basic.Main
+java DiceRoller.v1_basic.ContactManager.v1_oop.Main
 ```
 
 ---

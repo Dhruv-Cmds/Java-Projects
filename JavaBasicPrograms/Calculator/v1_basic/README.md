@@ -29,12 +29,12 @@ Make sure you are in the project root directory.
 
 ### Compile
 ```
-javac Calculator\Main.java
+javac Calculator\ContactManager.v1_oop.Main.java
 ```
 
 ### Run
 ```
-java Calculator.Main
+java Calculator.ContactManager.v1_oop.Main
 ```
 
 ---
@@ -47,5 +47,5 @@ Dhruv
 
 ## Working
 
-javac Calculator\Main.java  
-java Calculator.Main
+javac Calculator\ContactManager.v1_oop.Main.java  
+java Calculator.ContactManager.v1_oop.Main

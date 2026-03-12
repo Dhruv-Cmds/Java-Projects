@@ -29,12 +29,12 @@ Make sure you are in the project root directory.
 
 ### Compile
 ```
-javac WeightConverstionProgram\Main.java
+javac WeightConverstionProgram\ContactManager.v1_oop.Main.java
 ```
 
 ### Run
 ```
-java WeightConverstionProgram.Main
+java WeightConverstionProgram.ContactManager.v1_oop.Main
 ```
 
 ---
@@ -47,5 +47,5 @@ Dhruv
 
 ## Working
 
-javac WeightConverstionProgram\Main.java  
-java WeightConverstionProgram.Main
+javac WeightConverstionProgram\ContactManager.v1_oop.Main.java  
+java WeightConverstionProgram.ContactManager.v1_oop.Main

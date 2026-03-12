@@ -10,14 +10,14 @@ Git-Hub-For-Java/
     ├── README.md
     ├── screenshots/
     ├── v1_basic/
-    |   └──Main.java
+    |   └──ContactManager.v1_oop.Main.java
     │   └── README.md
     └── v2_oop/
-        ├── Main.java
+        ├── ContactManager.v1_oop.Main.java
         ├── Invoice.java
         └── README.md
 
-Main handles user input and output
+ContactManager.v1_oop.Main handles user input and output
 
 Invoice handles all calculations
 
@@ -40,5 +40,5 @@ OOP
 Console I/O
 
 Run
-javac InvoiceWithDiscountPlusTax/v2_oop_file/Main.java
-java InvoiceWithDiscountPlusTax.v2_oop_file.Main
+javac InvoiceWithDiscountPlusTax/v2_oop_file/ContactManager.v1_oop.Main.java
+java InvoiceWithDiscountPlusTax.v2_oop_file.ContactManager.v1_oop.Main

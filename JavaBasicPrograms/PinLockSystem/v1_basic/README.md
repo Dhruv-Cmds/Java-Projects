@@ -29,12 +29,12 @@ Make sure you are in the project root directory.
 
 ### Compile
 ```
-javac PinLockSystem\Main.java
+javac PinLockSystem\ContactManager.v1_oop.Main.java
 ```
 
 ### Run
 ```
-java PinLockSystem.Main
+java PinLockSystem.ContactManager.v1_oop.Main
 ```
 
 ---
@@ -47,5 +47,5 @@ Dhruv
 
 ## Working
 
-javac PinLockSystem\Main.java  
-java PinLockSystem.Main
+javac PinLockSystem\ContactManager.v1_oop.Main.java  
+java PinLockSystem.ContactManager.v1_oop.Main

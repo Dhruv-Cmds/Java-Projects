@@ -19,8 +19,8 @@ Overview:-
 
 - How to Run:-
 
-- javac Main.java
-- java Main
+- javac ContactManager.v1_oop.Main.java
+- java ContactManager.v1_oop.Main
 
 - deal For:-
 

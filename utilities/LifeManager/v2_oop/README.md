@@ -19,7 +19,7 @@ LifeManager.v2_oop
 
 Classes:
 
-Main – Controls application flow and menu system
+ContactManager.v1_oop.Main – Controls application flow and menu system
 UserInfo – Collects and stores user details
 StudyTime – Evaluates weekly study performance
 Bmi – Calculates Body Mass Index
@@ -37,6 +37,6 @@ How to Compile and Run
 Ensure you are inside the project root directory.
 
 Compile
-javac LifeManager\v2_oop_file\Main.java
+javac LifeManager\v2_oop_file\ContactManager.v1_oop.Main.java
 Run
-java LifeManager.v2_oop.Main
+java LifeManager.v2_oop.ContactManager.v1_oop.Main

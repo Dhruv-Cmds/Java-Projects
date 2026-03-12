@@ -28,7 +28,7 @@ It is designed to practice Core Java concepts and Object-Oriented Programming (O
 ConsoleBankingSystem
 │
 ├── v1_basic
-│   ├── Main.java
+│   ├── ContactManager.v1_oop.Main.java
 │   └── README.md
 │
 └── v2_oop
@@ -36,16 +36,16 @@ ConsoleBankingSystem
 ├── Withdraw.java
 ├── Transaction.java
 ├── ShowBalance.java
-├── Main.java
+├── ContactManager.v1_oop.Main.java
 └── README.md
 
 ▶️ How to Run
 
 Compile the project:
-javac Main.java
+javac ContactManager.v1_oop.Main.java
 
 Run the application:
-java Main
+java ContactManager.v1_oop.Main
 
 🎯 Purpose of This Project:
 

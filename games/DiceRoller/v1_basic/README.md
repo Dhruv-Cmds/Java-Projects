@@ -29,8 +29,8 @@
 
 ▶️ How to Run
 
-- javac DiceRoller/Main.java
-- java DiceRoller.Main
+- javac DiceRoller/ContactManager.v1_oop.Main.java
+- java DiceRoller.ContactManager.v1_oop.Main
 
 📌 Example Output
 

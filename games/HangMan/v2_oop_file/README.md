@@ -25,12 +25,12 @@ games/
 ├─ screenshots/
 │
 ├─ v1_basic/
-│  ├─ Main.java
+│  ├─ ContactManager.v1_oop.Main.java
 │  ├─ words.txt
 │  └─ README.md
 │
 └─ v2_oop_file/
-    ├─ Main.java
+    ├─ ContactManager.v1_oop.Main.java
     ├─ Game.java
     ├─ WordLoader.java
     ├─ HangmanArt.java
@@ -46,8 +46,8 @@ games/
 2. Compile the program:
 
 ```bash
-javac HangMan/v2_oop_file/Main.java
-java HangMan.v2_oop_file.Main
+javac HangMan/v2_oop_file/ContactManager.v1_oop.Main.java
+java HangMan.v2_oop_file.ContactManager.v1_oop.Main
 
 📄 words.txt Format
 

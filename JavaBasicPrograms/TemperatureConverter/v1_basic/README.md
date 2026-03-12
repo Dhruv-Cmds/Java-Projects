@@ -29,12 +29,12 @@ Make sure you are in the project root directory.
 
 ### Compile
 ```
-javac TemperatureConverter\Main.java
+javac TemperatureConverter\ContactManager.v1_oop.Main.java
 ```
 
 ### Run
 ```
-java TemperatureConverter.Main
+java TemperatureConverter.ContactManager.v1_oop.Main
 ```
 
 ---
@@ -47,5 +47,5 @@ Dhruv
 
 ## Working
 
-javac TemperatureConverter\Main.java  
-java TemperatureConverter.Main
+javac TemperatureConverter\ContactManager.v1_oop.Main.java  
+java TemperatureConverter.ContactManager.v1_oop.Main

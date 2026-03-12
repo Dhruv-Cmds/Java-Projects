@@ -29,12 +29,12 @@ Make sure you are in the project root directory.
 
 ### Compile
 ```
-javac LifeManager\Main.java
+javac LifeManager\ContactManager.v1_oop.Main.java
 ```
 
 ### Run
 ```
-java LifeManager.Main
+java LifeManager.ContactManager.v1_oop.Main
 ```
 
 ---
@@ -47,5 +47,5 @@ Dhruv
 
 ## Working
 
-javac LifeManager\Main.java  
-java LifeManager.Main
+javac LifeManager\ContactManager.v1_oop.Main.java  
+java LifeManager.ContactManager.v1_oop.Main

@@ -20,10 +20,10 @@ A console-based slot machine simulation built using Java fundamentals and random
 ## ▶ How to Run
 
 Compile:
-javac Main.java
+javac ContactManager.v1_oop.Main.java
 
 Run:
-java Main
+java ContactManager.v1_oop.Main
 
 ## 🎯 Objective
 

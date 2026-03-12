@@ -21,10 +21,10 @@ A console-based implementation of the classic Rock Paper Scissors game built usi
 ## ▶ How to Run
 
 Compile:
-javac Main.java
+javac ContactManager.v1_oop.Main.java
 
 Run:
-java Main
+java ContactManager.v1_oop.Main
 
 ## 🎯 Objective
 

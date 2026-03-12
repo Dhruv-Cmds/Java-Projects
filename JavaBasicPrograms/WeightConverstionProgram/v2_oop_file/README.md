@@ -22,7 +22,7 @@ Demonstrates real OOP design
 
 The program is divided into three main classes, each with a clear responsibility:
 
-Main
+ContactManager.v1_oop.Main
 
 Handles user interaction
 
@@ -69,7 +69,7 @@ Make sure you are in the project root directory.
 Compile
 javac WeightConverstionProgram/v2_oop_file/*.java
 Run
-java WeightConverstionProgram.v2_oop_file.Main
+java WeightConverstionProgram.v2_oop_file.ContactManager.v1_oop.Main
 
 📂 Project Structure:
 
@@ -78,11 +78,11 @@ WeightConversionProgram/
 ├── README.md
 │
 ├── v1_basic/
-│   ├── Main.java
+│   ├── ContactManager.v1_oop.Main.java
 │   └── README.md
 │
 ├── v2_oop/
-│   ├── Main.java
+│   ├── ContactManager.v1_oop.Main.java
 │   ├── Kgs.java
 │   ├── Lbs.java
 │   └── README.md

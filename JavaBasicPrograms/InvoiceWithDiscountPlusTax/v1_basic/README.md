@@ -29,12 +29,12 @@ Make sure you are in the project root directory.
 
 ### Compile
 ```
-javac InvoiceWithDiscountPlusTax\Main.java
+javac InvoiceWithDiscountPlusTax\ContactManager.v1_oop.Main.java
 ```
 
 ### Run
 ```
-java InvoiceWithDiscountPlusTax.Main
+java InvoiceWithDiscountPlusTax.ContactManager.v1_oop.Main
 ```
 
 ---
@@ -47,5 +47,5 @@ Dhruv
 
 ## Working
 
-javac InvoiceWithDiscountPlusTax\Main.java  
-java InvoiceWithDiscountPlusTax.Main
+javac InvoiceWithDiscountPlusTax\ContactManager.v1_oop.Main.java  
+java InvoiceWithDiscountPlusTax.ContactManager.v1_oop.Main

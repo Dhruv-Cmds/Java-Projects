@@ -28,7 +28,7 @@ This project focuses on:
 
 games/
 ├─ HangMan/
-│ ├─ Main.java
+│ ├─ ContactManager.v1_oop.Main.java
 │ └─ words.txt
 └─ README.md
 
@@ -41,8 +41,8 @@ games/
 From the **project root directory** (`nuke2`):
 
 ```bash
-javac HangMan/Main.java
-java HangMan.Main
+javac HangMan/ContactManager.v1_oop.Main.java
+java HangMan.ContactManager.v1_oop.Main
 
 📄 words.txt Format:-
 

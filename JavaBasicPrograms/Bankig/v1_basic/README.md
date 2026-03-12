@@ -22,8 +22,8 @@
 - Loops & Switch expressions
 
 ▶️ Run It
-- javac Bankig/Main.java
-- java Bankig.Main
+- javac Bankig/ContactManager.v1_oop.Main.java
+- java Bankig.ContactManager.v1_oop.Main
 
 🔒 Smart Validation
 

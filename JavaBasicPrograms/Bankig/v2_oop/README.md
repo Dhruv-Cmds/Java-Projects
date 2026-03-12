@@ -19,7 +19,7 @@ The application follows an object-oriented design approach.
 
 Banking/
 │
-├── Main.java
+├── ContactManager.v1_oop.Main.java
 ├── Deposit.java
 ├── Withdraw.java
 ├── ShowBalance.java
@@ -27,7 +27,7 @@ Banking/
 
 🔹 Class Responsibilities
 
-Main.java
+ContactManager.v1_oop.Main.java
 Entry point of the program
 
 Displays menu
@@ -67,7 +67,7 @@ Object-Oriented Programming (OOP)
 
 javac Bankig/*.java
 2️⃣ Run the application
-java Bankig.Main
+java Bankig.ContactManager.v1_oop.Main
 
 🔒 Validation & Error Handling
 

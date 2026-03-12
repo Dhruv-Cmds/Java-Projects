@@ -19,7 +19,7 @@ public class Main {
         while (true) {
 
             System.out.println("\n------- Welcome to Life Manager -------");
-            System.out.println("=== Main Menu ===");
+            System.out.println("=== ContactManager.v1_oop.Main Menu ===");
             System.out.println("1. BMI Calculator");
             System.out.println("2. Study Time Calculator");
             System.out.println("3. Random Motivation");

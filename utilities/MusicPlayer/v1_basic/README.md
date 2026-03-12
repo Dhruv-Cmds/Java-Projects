@@ -27,7 +27,7 @@ It is designed as a **beginner-friendly Java project** to understand file handli
 ## 📁 Project Structure
 utilities/
 └── MusicPlayer/
-├── Main.java
+├── ContactManager.v1_oop.Main.java
 ├── track1.wav
 ├── track2.wav
 ├── track3.wav
@@ -61,10 +61,10 @@ Only .wav files are supported.
 2️⃣Compile the program:-
 
 From the root of the project:
-javac utilities/MusicPlayer/Main.java
+javac utilities/MusicPlayer/ContactManager.v1_oop.Main.java
 
 3️⃣ Run the program:-
-java -cp utilities MusicPlayer.Main
+java -cp utilities MusicPlayer.ContactManager.v1_oop.Main
 
 🎵 Audio License Note:-
 

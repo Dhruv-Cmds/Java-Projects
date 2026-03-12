@@ -29,12 +29,12 @@ Make sure you are in the project root directory.
 
 ### Compile
 ```
-javac CompoundInterestCalculataor\Main.java
+javac CompoundInterestCalculataor\ContactManager.v1_oop.Main.java
 ```
 
 ### Run
 ```
-java CompoundInterestCalculataor.Main
+java CompoundInterestCalculataor.ContactManager.v1_oop.Main
 ```
 
 ---
@@ -47,5 +47,5 @@ Dhruv
 
 ## Working
 
-javac CompoundInterestCalculator\Main.java  
-java CompoundInterestCalculataor.Main
+javac CompoundInterestCalculator\ContactManager.v1_oop.Main.java  
+java CompoundInterestCalculataor.ContactManager.v1_oop.Main

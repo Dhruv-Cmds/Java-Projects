@@ -31,7 +31,7 @@ Git-Hub-For-Java/
 └── utilities/
 └── AlarmClock/
 ├── AlarmClock.java // Alarm logic & sound playback
-├── Main.java // User input & program entry point
+├── ContactManager.v1_oop.Main.java // User input & program entry point
 └── README.md
 
 
@@ -62,7 +62,7 @@ If the user enters a time that has already passed, the program:
 
 - Format: `.wav`
 - Must be a supported audio format by Java Sound API
-- Update the file path in `Main.java`:
+- Update the file path in `ContactManager.v1_oop.Main.java`:
 
 ```java
 String filepath = "C:\\path\\to\\your\\alarm.wav";
@@ -71,11 +71,11 @@ String filepath = "C:\\path\\to\\your\\alarm.wav";
 
 Compile the program:
 
-javac Main.java AlarmClock.java
+javac ContactManager.v1_oop.Main.java AlarmClock.java
 
 Run the program:
 
-java Main
+java ContactManager.v1_oop.Main
 
 Enter alarm time when prompted:
 

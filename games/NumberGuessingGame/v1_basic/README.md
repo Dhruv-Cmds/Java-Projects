@@ -29,12 +29,12 @@ Make sure you are in the project root directory.
 
 ### Compile
 ```
-javac NumberGuessingGame\Main.java
+javac NumberGuessingGame\ContactManager.v1_oop.Main.java
 ```
 
 ### Run
 ```
-java NumberGuessingGame.Main
+java NumberGuessingGame.ContactManager.v1_oop.Main
 ```
 
 ---
@@ -47,5 +47,5 @@ Dhruv
 
 ## Working
 
-javac NumberGuessingGame\Main.java  
-java NumberGuessingGame.Main
+javac NumberGuessingGame\ContactManager.v1_oop.Main.java  
+java NumberGuessingGame.ContactManager.v1_oop.Main
