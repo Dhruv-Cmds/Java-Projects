@@ -38,7 +38,7 @@ games/
 ## ▶️ How to Run
 
 ### 1. Compile
-From the **project root directory** (`nuke2`):
+From the **project root directory**:
 
 ```bash
 javac HangMan/ContactManager.v1_oop.Main.java
