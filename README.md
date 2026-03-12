@@ -48,6 +48,7 @@ JavaBasicPrograms/
 │   ├─ AlarmClock
 │   ├─ LifeManager
 │   ├─ MusicPlayer
+│   ├─ ContactManager
 │   └─ StudentGradeSystem
 │
 ├─ LICENSE
