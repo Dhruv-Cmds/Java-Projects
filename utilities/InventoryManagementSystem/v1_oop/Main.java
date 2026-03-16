@@ -1,4 +1,4 @@
-package InventoryManagementSystem;
+package InventoryManagementSystem.v1_oop;
 
 import java.util.Scanner;
 

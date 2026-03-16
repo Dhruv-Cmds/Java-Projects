@@ -1,6 +1,4 @@
-package InventoryManagementSystem;
-
-import InventoryManagementSystem.Product;
+package InventoryManagementSystem.v1_oop;
 
 public class InventoryManager {
 
@@ -57,7 +55,7 @@ public class InventoryManager {
             total = product[i].price * product[i].quantity;
         }
 
-        System.out.println("Total Inventory Value: $" + total);
+        System.out.printf("Total Inventory Value: $%.2f" , total);
     }
 
 }
