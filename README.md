@@ -49,7 +49,7 @@ This repository is a collection of Java projects organized into systems, games, 
 
 2. Navigate into the project directory:
    ```
-   cd Git-Hub-For-Java
+   cd Java-Projects
    ```
 
 ## Usage
