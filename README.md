@@ -50,89 +50,91 @@ This repository is a collection of Java projects organized into systems, games, 
    git clone https://github.com/Dhruv-Cmds/Git-Hub-For-Java.git
 
 2. Navigate into the project directory:
+   ```
+   cd Git-Hub-For-Java
+   ```
 
-cd Git-Hub-For-Java
-
-Usage
+## Usage
 
 1. Navigate to any project folder:
-
-cd JavaBasicPrograms/LibrarySystem
+   ```
+    cd JavaBasicPrograms/LibrarySystem
+   ```
 
 2. Compile and run the program:
+   ```
+     javac Main.java
+     java Main
+   ```
 
-  javac Main.java
-  java Main
-
-
-Project Structure
-```
-JavaBasicPrograms/
-│
-├─ Banking/
-├─ Calculator/
-├─ ClassroomSystem/
-├─ CompoundInterestCalculator/
-├─ ConsoleBankingSystem/
-├─ InvoiceWithDiscountPlusTax/
-├─ LibrarySystem/
-├─ MiniTimerCountDown/
-├─ MiniUniversityManagementSystem/
-├─ PinLockSystem/
-├─ TemperatureConverter/
-├─ WeightConversionProgram/
-│
-├─ games/
-│   ├─ DiceRoller/
-│   ├─ HangMan/
-│   ├─ NumberGuessingGame/
-│   ├─ QuizGame/
-│   ├─ RockPaperScissors/
-│   └─ SlotMachine/
-│
-├─ utilities/
-│   ├─ AlarmClock/
-│   ├─ LifeManager/
-│   ├─ MusicPlayer/
-│   ├─ ContactManager/
-│   └─ StudentGradeSystem/
-│
-├─ LICENSE
-└─ README.md
-```
+## Project Structure
+   ```
+   JavaBasicPrograms/
+   │
+   ├─ Banking/
+   ├─ Calculator/
+   ├─ ClassroomSystem/
+   ├─ CompoundInterestCalculator/
+   ├─ ConsoleBankingSystem/
+   ├─ InvoiceWithDiscountPlusTax/
+   ├─ LibrarySystem/
+   ├─ MiniTimerCountDown/
+   ├─ MiniUniversityManagementSystem/
+   ├─ PinLockSystem/
+   ├─ TemperatureConverter/
+   ├─ WeightConversionProgram/
+   │
+   ├─ games/
+   │   ├─ DiceRoller/
+   │   ├─ HangMan/
+   │   ├─ NumberGuessingGame/
+   │   ├─ QuizGame/
+   │   ├─ RockPaperScissors/
+   │   └─ SlotMachine/
+   │
+   ├─ utilities/
+   │   ├─ AlarmClock/
+   │   ├─ LifeManager/
+   │   ├─ MusicPlayer/
+   │   ├─ ContactManager/
+   │   └─ StudentGradeSystem/
+   │
+   ├─ LICENSE
+   └─ README.md
+   ```
 Library Management System
 
 The Library Management System module allows you to:
-
+<br>
 Add, update, and remove books
-
+<br>
 Manage user records
-
+<br>
 Issue and return books
-
+<br>
 Track availability of books
 
-Contributing
+## Contributing
 
 1. Fork the repository
 
 2. Create a new branch:
-```
-git checkout -b feature/YourFeature
-```
+   ```
+   git checkout -b feature/YourFeature
+   ```
 
 3. Commit your changes:
-```
-git commit -m "Add your feature"
-```
+   ```
+   git commit -m "Add your feature"
+   ```
 
 4. Push to the branch:
-```
-git push origin feature/YourFeature
-```
+   ```
+   git push origin feature/YourFeature
+   ```
 
 5. Open a pull request
 
-License
+## License
 
 This project is licensed under the MIT License.
