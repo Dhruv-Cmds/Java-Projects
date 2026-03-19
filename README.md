@@ -64,8 +64,9 @@ cd JavaBasicPrograms/LibrarySystem
   javac Main.java
   java Main
 
-Project Structure
 
+Project Structure
+```
 JavaBasicPrograms/
 │
 ├─ Banking/
@@ -98,7 +99,7 @@ JavaBasicPrograms/
 │
 ├─ LICENSE
 └─ README.md
-
+```
 Library Management System
 
 The Library Management System module allows you to:
