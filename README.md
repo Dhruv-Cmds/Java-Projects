@@ -1,5 +1,3 @@
-# Git-Hub-For-Java
-
 ## Introduction
 This repository is a collection of Java projects organized into systems, games, and utility applications. It is designed to demonstrate core programming concepts, object-oriented design, and practical implementations.
 
