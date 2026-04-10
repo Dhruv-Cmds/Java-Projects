@@ -55,7 +55,7 @@ public class AlarmClock implements Runnable {
                      AudioSystem.getAudioInputStream(audioFile)) {
 
             Clip clip = AudioSystem.getClip();
-            clip.open(audioInputStream);   // FIXED
+            clip.open(audioInputStream);
             clip.loop(Clip.LOOP_CONTINUOUSLY);
             clip.start();
 
