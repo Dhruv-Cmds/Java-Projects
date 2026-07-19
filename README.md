@@ -45,7 +45,7 @@ This repository is a collection of Java projects organized into systems, games, 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dhruv-Cmds/Git-Hub-For-Java.git
+   git clone https://github.com/Dhruv-Cmds/Java-Projects.git
 
 2. Navigate into the project directory:
    ```
@@ -100,38 +100,6 @@ This repository is a collection of Java projects organized into systems, games, 
    ├─ LICENSE
    └─ README.md
    ```
-Library Management System
-
-The Library Management System module allows you to:
-<br>
-Add, update, and remove books
-<br>
-Manage user records
-<br>
-Issue and return books
-<br>
-Track availability of books
-
-## Contributing
-
-1. Fork the repository
-
-2. Create a new branch:
-   ```
-   git checkout -b feature/YourFeature
-   ```
-
-3. Commit your changes:
-   ```
-   git commit -m "Add your feature"
-   ```
-
-4. Push to the branch:
-   ```
-   git push origin feature/YourFeature
-   ```
-
-5. Open a pull request
 
 ## License
 
